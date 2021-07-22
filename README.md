@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pgiovanazzi, you are welcome
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning blockchain
