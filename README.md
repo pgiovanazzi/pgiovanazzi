@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pgiovanazzi, you are welcome
-- 👀 I’m interested in Frontend applications, magnament proyects and to lead
+- 👀 I’m interested in frontend applications, project management and to lead
 - 🌱 I’m currently learning blockchain and smart contracts
